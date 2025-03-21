@@ -1,0 +1,9 @@
+/* Estilo para el ícono de cierre del modal */
+.modal-header .btn-close {
+    filter: invert(1); /* Invierte el color del ícono (útil para modo oscuro) */
+  }
+  
+  /* Asegurar que el ícono de cierre sea oscuro en modo claro */
+  .bg-light .btn-close {
+    filter: invert(0); /* Restaura el color original en modo claro */
+  }
