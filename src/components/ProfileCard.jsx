@@ -15,7 +15,7 @@ const ProfileCard = ({ isDarkMode }) => (
         <p><FaEnvelope className="text-success" /> <a href="mailto:jluismiranda1920@gmail.com" className={isDarkMode ? "text-light" : "text-dark"}>jluismiranda1920@gmail.com</a></p>
         <p><FaPhone className="text-success" /> 7773696787</p>
         <p>
-          <a href="https://www.linkedin.com/in/joseluismirandaroldan" target="_blank" rel="noopener noreferrer" className={isDarkMode ? "text-light mx-2" : "text-dark mx-2"}><FaLinkedin size={20} /></a>
+          <a href="https://www.linkedin.com/in/jose-luis-miranda-rold%C3%A1n-82ba6b247/" target="_blank" rel="noopener noreferrer" className={isDarkMode ? "text-light mx-2" : "text-dark mx-2"}><FaLinkedin size={20} /></a>
           <a href="https://github.com/JoseLuisMirRo" target="_blank" rel="noopener noreferrer" className={isDarkMode ? "text-light mx-2" : "text-dark mx-2"}><FaGithub size={20} /></a>
         </p>
       </Card.Text>

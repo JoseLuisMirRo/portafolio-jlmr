@@ -1,12 +1,49 @@
-# React + Vite
+# Portafolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el repositorio de mi portafolio personal, el cual está hosteado en Vercel.
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+En este portafolio encontrarás información sobre mis proyectos, habilidades y experiencia profesional. El objetivo es mostrar mi trabajo y facilitar el contacto con posibles empleadores o colaboradores.
 
-## Expanding the ESLint configuration
+## Tecnologías Utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML
+- CSS
+- JavaScript
+- React
+- React Bootstrap
+
+## Instalación
+
+Para ejecutar este proyecto localmente, sigue estos pasos:
+
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/portafolio-jlmr.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd portafolio-jlmr
+    ```
+3. Instala las dependencias:
+    ```bash
+    npm install
+    ```
+4. Inicia el servidor de desarrollo:
+    ```bash
+    npm run dev
+    ```
+
+## Despliegue
+
+El portafolio está desplegado en Vercel. Puedes verlo en el siguiente enlace: 
+
+## Contacto
+
+Si deseas contactarme, puedes hacerlo a través de los siguientes medios:
+
+- Email: jluismiranda1920@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jose-luis-miranda-rold%C3%A1n-82ba6b247/
+
+
