@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, ProgressBar } from 'react-bootstrap';
 import { FaBriefcase, FaHome, FaEnvelope, FaPhone, FaAsterisk, FaGlobe, FaLinkedin, FaGithub } from 'react-icons/fa';
-import profilePhoto from '../assets/profilephoto.png';
+import profilePhoto from '../assets/ProfilePhotoNew.png';
 
 const ProfileCard = ({ isDarkMode }) => (
   <Card className={`text-start mb-4 ${isDarkMode ? "bg-dark text-light" : "bg-light text-dark"} shadow`}>
