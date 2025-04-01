@@ -22,20 +22,20 @@ const ProfileCard = ({ isDarkMode }) => (
       <hr />
       <h5><FaAsterisk className="text-success" /> Habilidades</h5>
       <div className="mb-4">
-        <p className="mb-1">Java Spring</p>
-        <ProgressBar now={90} label="90%" variant="success" />
+        <p className="mb-1">Java / Spring</p>
+        <ProgressBar now={75} label="75%" variant="success" />
       </div>
       <div className="mb-4">
         <p className="mb-1">React</p>
-        <ProgressBar now={70} label="70%" variant="success" />
+        <ProgressBar now={60} label="60%" variant="success" />
       </div>
       <div className="mb-4">
         <p className="mb-1">React Native</p>
-        <ProgressBar now={70} label="70%" variant="success" />
+        <ProgressBar now={60} label="60%" variant="success" />
       </div>
       <div className="mb-4">
         <p className="mb-1">JavaScript</p>
-        <ProgressBar now={80} label="80%" variant="success" />
+        <ProgressBar now={75} label="75%" variant="success" />
       </div>
       <br />
       <h5><FaGlobe className="text-success" /> Idiomas</h5>
