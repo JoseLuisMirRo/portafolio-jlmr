@@ -37,6 +37,14 @@ const ProfileCard = ({ isDarkMode }) => (
         <p className="mb-1">JavaScript</p>
         <ProgressBar now={75} label="75%" variant="success" />
       </div>
+      <div className="mb-4">
+        <p className="mb-1">MySQL</p>
+        <ProgressBar now={80} label="80%" variant="success" />
+      </div>
+      <div className="mb-4">
+        <p className="mb-1">MongoDB</p>
+        <ProgressBar now={60} label="60%" variant="success" />
+      </div>
       <br />
       <h5><FaGlobe className="text-success" /> Idiomas</h5>
       <div className="mb-4">
